@@ -2,15 +2,15 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.af-19764885.unrealeditor.exe",
+			"app_key": "application.generated.ue.af-20979098.unrealeditor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "D:/Unreal Projects/AdvancedFramework/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "D:/UE4project/VR/VRSurgery/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
 				{
-					"name": "AF-19764885 [UE Editor]"
+					"name": "AF-20979098 [UE Editor]"
 				}
 			}
 		}
