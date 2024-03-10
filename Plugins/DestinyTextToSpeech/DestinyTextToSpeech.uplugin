@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DestinyTextToSpeech",
+	"Description": "这是一个调用win系统的TTS(语音转文本朗读)插件,内部实现是调用的C# DLL扩展(有可能需要.NET4.7运行环境)",
+	"Category": "Other",
+	"CreatedBy": "qilong",
+	"CreatedByURL": "",
+	"DocsURL": "https://destiny.cool",
+	"MarketplaceURL": "",
+	"SupportURL": "https://destiny.cool",
+	"EngineVersion": "5.0.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "DestinyTextToSpeech",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
