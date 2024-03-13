@@ -73,11 +73,11 @@
 		},
 		{
 			"Name": "DestinyTextToSpeech",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "TTSUniversalPluginMeoPlay",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/fcc4de68b1134d99b4f20e57456953aa"
 		}
 	]
