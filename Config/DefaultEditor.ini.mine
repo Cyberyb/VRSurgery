@@ -1,0 +1,8 @@
+
+
+[/Script/SteamVREditor.SteamVREditorSettings]
+bShowSteamVrInputToolbarButton=True
+
+[/Script/UnrealEd.EditorPerformanceProjectSettings]
+RealtimeScreenPercentageMode=Manual
+
