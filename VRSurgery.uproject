@@ -79,6 +79,14 @@
 			"Name": "TTSUniversalPluginMeoPlay",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/fcc4de68b1134d99b4f20e57456953aa"
+		},
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	]
 }
