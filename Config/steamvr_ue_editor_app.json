@@ -2,7 +2,7 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.af-20979098.unrealeditor.exe",
+			"app_key": "application.generated.ue.vrsurgery-20979098.unrealeditor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
 			"action_manifest_path": "D:/Projects/vr/VRSurgery/Config/SteamVRBindings/steamvr_manifest.json",
@@ -10,7 +10,7 @@
 			{
 				"en_us":
 				{
-					"name": "AF-20979098 [UE Editor]"
+					"name": "VRSurgery-20979098 [UE Editor]"
 				}
 			}
 		}
